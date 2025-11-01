@@ -167,6 +167,7 @@ SHARP/Hudson の開発の方々に感謝します。
 　テンプレートN&CU(F9キー)の割り当てをESC+FからESC+Xに変更しました
 　ESC+F/ESC+B/ESC+D/ESC+Hに一語移動および一語削除を割り当てました
 　同梱のKEY.HISを上記の変更に合わせて修正しました
+　ファイル名を補完した際にファイル名の後ろに空白を追加するようにしました
 
 ● HISTORY.X Ver1.10+5
 　VOID を CTRL+U にバインドした(UNIX の stty KILL '^U' が元ネタ)
